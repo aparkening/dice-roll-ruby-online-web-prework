@@ -4,7 +4,7 @@
 
 def roll
   # this_roll = rand(1...7)
-  this_roll = 
+  this_roll = [1...7]
   return this_roll
 end
 
