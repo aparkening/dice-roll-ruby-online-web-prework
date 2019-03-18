@@ -7,4 +7,5 @@ def roll
   return this_roll
 end
 
+# Output roll result
 puts roll
