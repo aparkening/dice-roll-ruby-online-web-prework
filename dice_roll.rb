@@ -4,8 +4,8 @@
 
 def roll
   # this_roll = rand(1...7)
-  arrayRoll = Array (1..6)
-  return arrayRoll.sample
+  arrayRoll = Array (1..6).sample
+  return arrayRoll
 end
 
 # Output roll result
