@@ -6,5 +6,3 @@ def roll
   this_roll = rand(1...7)
   return this_roll
 end
-
-puts 'This role is' + roll
