@@ -7,4 +7,4 @@ def roll
   return this_roll
 end
 
-puts "This role is" +roll
+puts "This role is" roll
