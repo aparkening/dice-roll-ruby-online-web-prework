@@ -4,7 +4,7 @@
 
 def roll
   this_roll = rand(1...7)
-  puts "This role is ${this_roll}"
   return this_roll
 end
 
+puts "This role is" +roll
