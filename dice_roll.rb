@@ -4,4 +4,5 @@
 
 def roll
  rand(1...7)
+ puts "This role is ${roll}"
 end
